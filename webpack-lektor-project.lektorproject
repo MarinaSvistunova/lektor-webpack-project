@@ -6,5 +6,5 @@ lektor-webpack-support = 0.5
 
 
 [servers.ghpages]
-target = ghpages+https://marinasvistunova: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/MarinaSvistunova/lektor-webpack-project
+target = ghpages+https://marinasvistunova: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/lektor-webpack-project
 
