@@ -1,1 +1,1 @@
-{"version":3,"file":"styles.css","mappings":"AAAA","sources":["webpack://lektor-webpack/./scss/main.scss"],"sourcesContent":["body {\n    color: green\n}"],"names":[],"sourceRoot":""}
+{"version":3,"file":"styles.css","mappings":"AAAA","sources":["webpack://lektor-webpack/./scss/main.scss"],"sourcesContent":["body {\n    color: green;\n}"],"names":[],"sourceRoot":""}
